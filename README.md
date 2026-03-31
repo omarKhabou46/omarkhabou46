@@ -1,4 +1,5 @@
 public class Omar {
+    
     private String name;
     private String role;
 
